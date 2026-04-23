@@ -1,11 +1,11 @@
 {
-  "version": "0.2.1",
+  "version": "0.0.1-rc.2",
   "description": "Share files. No accounts, no nonsense.",
   "homepage": "https://thefileshare.place",
   "license": "proprietary",
-  "url": "https://downloads.thefileshare.place/v0.2.1/TheFileSharePlace-0.2.1-win-x64.zip",
-  "hash": "9f59d4f926619a270f05688f901ac54a79ca8c3d93f707515c2e2e3718d7da67",
-  "bin": [["TheFileSharePlace.exe", "tfsp"], ["TheFileSharePlace.exe", "thefileshareplace"]],
+  "url": "https://downloads.thefileshare.place/v0.0.1-rc.2/TheFileSharePlace-0.0.1-rc.2-win-x64.zip",
+  "hash": "efc450fc0c9e8d091faae28dd18909af59074f90768d1e2e6f40b3bfb7400e3a",
+  "bin": [["TheFileSharePlace.exe", "tfsp"]],
   "checkver": {
     "url": "https://downloads.thefileshare.place/latest.json",
     "jsonpath": "$.version"
